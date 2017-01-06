@@ -11,7 +11,7 @@ namespace WebApplication123
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string nombre = "";
+            string nombre = "JORGE";
         }
     }
 }
